@@ -1,0 +1,30 @@
+# Azure OpenAI
+openai==2.0.1
+azure-core==1.35.1
+
+# PDF Processing
+pymupdf
+
+# LlamaIndex Core
+llama-index-core
+llama-index-readers-file
+
+# Azure OpenAI
+llama-index-llms-azure-openai
+llama-index-embeddings-azure-openai
+
+# Vector Store
+llama-index-vector-stores-chroma
+chromadb
+
+# Environment Management
+python-dotenv
+
+# Progress bars
+tqdm==4.66.1
+
+# Utilities
+colorama==0.4.6
+
+# HTTP client with connection pooling + HTTP/2(Already exist - pinned here for explicitness)
+httpx[http2]>=0.27.0
