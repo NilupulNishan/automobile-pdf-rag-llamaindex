@@ -1,7 +1,15 @@
+# [theme]
+# base="light"
+# primaryColor="#2563eb"
+# backgroundColor="#f6f8ff"
+# secondaryBackgroundColor="#ffffff"
+# textColor="#0b1b2b"
+# font="sans serif"
+
 [theme]
-base="light"
-primaryColor="#2563eb"
-backgroundColor="#f6f8ff"
-secondaryBackgroundColor="#ffffff"
-textColor="#0b1b2b"
-font="sans serif"
+base                   = "dark"
+primaryColor           = "#f59e0b"
+backgroundColor        = "#0f1117"
+secondaryBackgroundColor = "#141824"
+textColor              = "#dde2f0"
+font                   = "sans serif"

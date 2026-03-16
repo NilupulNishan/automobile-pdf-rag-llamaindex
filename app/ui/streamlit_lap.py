@@ -27,7 +27,7 @@ logging.basicConfig(level=logging.WARNING)
 logger = logging.getLogger(__name__)
 
 st.set_page_config(
-    page_title="VivoAssist RAG Demo",
+    page_title="BIACAssist RAG Demo",
     page_icon="📄",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -461,7 +461,7 @@ div[data-testid="stHorizontalBlock"] .stButton > button div {{
 
 # ─── Sidebar ──────────────────────────────────────────────────────────────────
 with st.sidebar:
-    st.markdown("## VIVO ASSIST")
+    st.markdown("## BIAC ASSIST")
     st.markdown("---")
 
     collections = get_collections()

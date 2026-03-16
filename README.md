@@ -30,6 +30,7 @@ cd pdf_embeddings_system
 
 # Create virtual environment
 python -m venv venv
+py -3.11 -m venv venv
 
 # Activate virtual environment
 source venv/bin/activate  # Mac/Linux
