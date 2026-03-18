@@ -35,7 +35,7 @@ ENV/
 .env.*.local
 
 # Chroma DB local storage
-data/
+
 data/docstore/
 data/chroma_db/
 data/chroma_db/**

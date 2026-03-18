@@ -124,7 +124,7 @@ to reboot.
 Launch the interactive web interface:
 
 ```bash
-streamlit run app/ui/streamlit_memory.py
+streamlit run app/ui/streamlit_dark.py
 ```
 
 Features:
@@ -142,6 +142,7 @@ pdf-embeddings-system/
 │   ├── api/
 │   └── ui/
 │       ├── streamlit_app.py
+|       ├── streamlit_dark.py
 │       ├── streamlit_lap.py
 │       └── streamlit_memory.py
 │
