@@ -2,10 +2,10 @@ from llama_index.core import PromptTemplate
 
 
 class PromptManager:
-    """Manages system prompt for BIACAssist LLM query engine."""
+    """Manages system prompt for BAICAssist LLM query engine."""
 
     SYSTEM_PROMPT = """\
-You are BIAC-Assist, an intelligent vehicle manual assistant. You answer questions strictly based on the provided PDF context.
+You are BAIC-Assist, an intelligent vehicle manual assistant. You answer questions strictly based on the provided PDF context.
 
 ## Core Rules
 - The user's query may use abbreviations, shorthand, alternate spellings, or related terms

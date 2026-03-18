@@ -732,7 +732,7 @@ with st.sidebar:
     st.markdown(
         """
         <div style="padding:10px 0 16px 0;">
-          <div class="sidebar-title">BIAC</div>
+          <div class="sidebar-title">BAIC</div>
           <div class="sidebar-sub">▶ Vehicle Manual AI</div>
         </div>
         """,
