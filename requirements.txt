@@ -1,24 +1,22 @@
 # Azure OpenAI
 openai==2.0.1
 azure-core==1.35.1
-
-# PDF Processing
-pymupdf
+pymupdf==1.27.2
 
 # LlamaIndex Core
-llama-index-core
-llama-index-readers-file
+llama-index-core==0.14.16
+llama-index-readers-file==0.5.6
 
 # Azure OpenAI
-llama-index-llms-azure-openai
-llama-index-embeddings-azure-openai
+llama-index-llms-azure-openai==0.4.2
+llama-index-embeddings-azure-openai==0.4.1
 
 # Vector Store
-llama-index-vector-stores-chroma
-chromadb
+llama-index-vector-stores-chroma==0.5.5
+chromadb==1.5.5
 
 # Environment Management
-python-dotenv
+python-dotenv==1.2.2
 
 # Progress bars
 tqdm==4.66.1
